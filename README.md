@@ -33,6 +33,7 @@ To run this project, you will need to have PySpark installed on your machine. Yo
 You will also need to have a CSV file containing historical stock data. You can download the Safaricom stock data used in this project from the following URL:
 
 Dataset source https://bit.ly/3pmchka
+
 Google colab notebook: https://colab.research.google.com/drive/1pM1g73M0TSZxcuvzjnhENSiOKzIEx-I4?usp=sharing
 
 Credits
