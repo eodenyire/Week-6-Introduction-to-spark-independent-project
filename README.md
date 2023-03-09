@@ -1,5 +1,5 @@
 # Week-6-Introduction-to-spark-independent-project
-Project title: Exploratory Data Analysis of Safaricom Stock Prices using PySpark".
+Project title: Exploratory Data Analysis of Safaricom Stock Prices using PySpark.
 
 This project is an analysis of Safaricom's stock prices over a period of time. The analysis is done using the PySpark library and involves loading the stock data from a CSV file, cleaning and formatting the data, and performing various calculations to gain insights into the trends and patterns in the stock prices.
 
